@@ -23,6 +23,8 @@ function addImage(dogPicUrl) {
   container.appendChild(newImageEl);
 }
 
+/*
+
 function loadBreedOptions() {
   const breedUrl = 'https://dog.ceo/api/breeds/list/all'
   fetch(breedUrl)
@@ -72,3 +74,4 @@ function addBreed(breed) {
 function updateColor(event) {
   event.target.style.color = 'palevioletred';
 }
+*/
